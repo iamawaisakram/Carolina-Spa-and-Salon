@@ -272,3 +272,79 @@ nav.main-nav .nav-link{
 	font-size: 3rem;
 	color: #fff;
 }
+
+.main-content p{
+	line-height: 2rem;
+}
+
+.sidebar {
+	background-color: #8ed3cc;
+	color: #fff;
+}
+.sidebar p{
+	font-family: 'Lato', sans-serif;
+	font-size: 1.2rem;
+}
+
+.hours h2{
+	color: #ffffff;
+}
+
+/** Services **/
+
+ .card-header{
+	background-color: #E6B0AA;
+}
+
+.card-header h3 a{
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.8rem;
+}
+.card-block{
+	font-size: 1.4rem;
+	line-height: 2rem;
+}
+
+aside.discount{
+	background-color: #8ed3cc;
+	color: #fff;
+	-moz-background-clip: content-box;
+	-webkit-background-clip: content-box;
+	background-clip: content-box;
+}
+aside.discount h3{
+	color: #fff;
+}
+
+aside.discount .coupon{
+border: 1px dashed white;
+}
+
+aside.discount .coupon p{
+	font-family: 'Lato', sans-serif;
+	font-size: 2rem;
+}
+
+aside.discount .coupon p span{
+	display: block;
+}
+
+
+/** Contact Form **/
+
+.contact_form {
+	border: 2px solid #9a9a9a;
+	background-color: white;
+}
+
+.contact_form .btn-primary{
+	background-color: #8ed3cc;
+	border:none;
+	border-radius: 0;
+	padding: 1rem 6rem;
+}
+.contact_form .btn-primary:hover{
+	cursor: pointer;
+	background-color: #6bbdb5;
+}
